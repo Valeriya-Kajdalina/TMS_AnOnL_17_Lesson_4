@@ -9,7 +9,6 @@ public class task3 {
         System.out.println("Второй массив: "+Arrays.toString(array2));
 
         for (int i = 0; i < 5; i++) {
-
             sredn_znach1 += array1[i]/5;
             sredn_znach2 += array2[i]/5;
         }
