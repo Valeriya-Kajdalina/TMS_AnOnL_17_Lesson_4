@@ -18,7 +18,6 @@ public class task4 {
         for (int i = 0; i < size; i++) {
             array[i] = (int) (Math.random() * 20);
             if (array[i] % 2 == 0)
-                if (array[i] != 0)
                     counter_even++;
         }
 
